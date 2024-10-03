@@ -1425,6 +1425,11 @@ info
 int
 eu.int
 
+// internal : https://www.icann.org/ar/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024
+// See also https://itp.cdn.icann.org/public-comment/proceeding/Proposed%20Top-Level%20Domain%20String%20for%20Private%20Use-24-01-2024/submissions/Google/Cloud%20ICANN%20Comment%20on%20.internal-21-02-2024.pdf
+// This is a non-public TLD that is reserved for internal use and should be considered valid for certificate verification
+internal
+
 // io : http://www.nic.io/rules.htm
 // list of other 2nd level tlds ?
 io
